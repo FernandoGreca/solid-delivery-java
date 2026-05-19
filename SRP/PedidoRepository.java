@@ -1,4 +1,4 @@
-package srp;
+package SRP;
 
 public class PedidoRepository {
     public void salvar(Pedido pedido) {

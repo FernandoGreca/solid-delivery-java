@@ -30,7 +30,7 @@ Esse comando compila todos os arquivos `.java` e coloca os arquivos `.class` den
 Depois de compilar, rode os exemplos individualmente:
 
 ```bash
-java -cp out srp.Main
+java -cp out SRP.Main
 java -cp out OCP.Main
 java -cp out LSP.Main
 java -cp out ISP.Main
@@ -123,4 +123,3 @@ O `NotificadorPedido` nao cria nem depende diretamente de email, SMS ou WhatsApp
 - Facilidade para adicionar novos comportamentos.
 - Uso de interfaces para contratos claros.
 - Melhor manutencao e evolucao do sistema.
-

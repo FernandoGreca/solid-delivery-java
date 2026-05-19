@@ -1,4 +1,4 @@
-package srp;
+package SRP;
 
 public class PedidoExibicao {
     public void exibir(Pedido pedido) {
