@@ -1,0 +1,16 @@
+# Arquivos compilados do Java
+*.class
+
+# Diretorios de build/saida
+out/
+build/
+target/
+bin/
+
+# Arquivos de IDE e sistema operacional
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
